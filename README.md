@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**TheRealSonicFan/TheRealSonicFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi! I am Andy Zhiyuan LIN. Welcome to my README. Here are some details about me.
 
 1. What are you interested in learning?
